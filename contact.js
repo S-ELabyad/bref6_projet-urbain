@@ -67,6 +67,10 @@ $(document).ready(function(){
                 minlength:5
               
             },
+            tele:{
+                required:true,
+                minlength:10
+            },
             confirmation: {
                 required: true,
                 equalTo: "#password-id"
@@ -94,6 +98,10 @@ $(document).ready(function(){
             emailid: {
                 required :"email est requis...",
                email: "S'il vous plaît, mettez une adresse email valide."
+            },
+            tele:{
+                required:"Numero de Tele est requis...",
+                minlength: "S'il vous plaît, mettez un Numero valide."
             },
             confirmation: {
                 required :"confirmation est requis...",

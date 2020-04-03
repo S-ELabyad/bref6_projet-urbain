@@ -138,8 +138,41 @@ header{
             & .image img {
                 width: 529px;
                 border-top-left-radius: 10px;
+                margin-top: 0px;
            
                 }
+            & .parag1{
+                font-weight: bold;
+                padding-top: 12%;
+                margin-top: 0%;
+                margin-left: 119px;
+                line-height: 1.8;
+                font-size: 15px;
+                position: absolute;
+                text-align: center;
+                color: white;
+            }  
+            & .parag{
+                text-align: center;
+                color: black;
+                margin-top: 4%;
+                position: absolute;
+                margin-left: 100px;
+            }  
+            & .btn{
+                position: absolute;
+                border: none;
+                height: 8%;
+                width: 12%;
+                border-radius: 42px;
+                font-style: italic;
+                background: #2893DA;
+                font-weight: bold;
+                color: #ffffff;
+                margin-top: 21%;
+                margin-left: 163px;
+                cursor: pointer
+            }
 
             & .input1{
                
@@ -162,7 +195,7 @@ header{
                 text-align: center;
                 margin-left: 26px;
                 margin-top: 37px;
-                border-radius: 11px;
+                // border-radius: 11px;
                }
                & #Name3{
               
@@ -172,7 +205,7 @@ header{
                 text-align: center;
                 margin-left: 26px;
                 margin-top: 37px;
-                border-radius: 11px;
+                // border-radius: 11px;
                }
                & #date{
            
@@ -182,7 +215,7 @@ header{
                 text-align: center;
                 margin-left: 26px;
                 margin-top: 37px;
-                border-radius: 11px;
+                // border-radius: 11px;
                }
                & #cin{
             
@@ -192,7 +225,7 @@ header{
                 text-align: center;
                 margin-left: 26px;
                 margin-top: 37px;
-                border-radius: 11px;
+                // border-radius: 11px;
                }
 
                & #email-id{
@@ -203,7 +236,7 @@ header{
                 text-align: center;
                 margin-left: 26px;
                 margin-top: 37px;
-                border-radius: 11px;  
+                // border-radius: 11px;  
                }
                & #password-id{
             
@@ -213,8 +246,17 @@ header{
                 text-align: center;
                 margin-left: 26px;
                 margin-top: 37px;
-                border-radius: 11px;
+                // border-radius: 11px;
               
+               }
+               & #tele{
+                width: 40%;
+                font-style: italic;
+                height: 40px;
+                text-align: center;
+                margin-left: 26px;
+                margin-top: 37px;
+                // border-radius: 11px;  
                }
                & #confirmation{
             
@@ -222,10 +264,9 @@ header{
                 font-style: italic;
                 height: 40px;
                 text-align: center;
-                margin-left: 288px;
+                margin-left: 26px;
                 margin-top: 37px;
-                border-radius: 11px;
-                font-size: 15px;
+                // border-radius: 11px;
                
                 }
 
@@ -246,6 +287,13 @@ header{
 
                }
                
+               .fa-phone{
+                position: absolute;
+                margin-top: 48px;
+                margin-left: 40px;
+                color: #828999;
+                display: block; 
+               }
                .fa-lock{
                 position: absolute;
                 margin-top: -30px;
@@ -284,7 +332,7 @@ header{
                .fa-key{
                 position: absolute;
                 position: absolute;
-                margin-top: 46px;
+                margin-top: -28px;
                 margin-left: 290px;
                 color: #828999;
                 display: block;

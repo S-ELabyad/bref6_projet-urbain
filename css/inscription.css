@@ -160,6 +160,42 @@ header .Titre button:hover {
 .login .container .frm .image img {
   width: 529px;
   border-top-left-radius: 10px;
+  margin-top: 0px;
+}
+
+.login .container .frm .parag1 {
+  font-weight: bold;
+  padding-top: 12%;
+  margin-top: 0%;
+  margin-left: 119px;
+  line-height: 1.8;
+  font-size: 15px;
+  position: absolute;
+  text-align: center;
+  color: white;
+}
+
+.login .container .frm .parag {
+  text-align: center;
+  color: black;
+  margin-top: 4%;
+  position: absolute;
+  margin-left: 100px;
+}
+
+.login .container .frm .btn {
+  position: absolute;
+  border: none;
+  height: 8%;
+  width: 12%;
+  border-radius: 42px;
+  font-style: italic;
+  background: #2893DA;
+  font-weight: bold;
+  color: #ffffff;
+  margin-top: 21%;
+  margin-left: 163px;
+  cursor: pointer;
 }
 
 .login .container .frm .input1 .title1 {
@@ -181,7 +217,6 @@ header .Titre button:hover {
   text-align: center;
   margin-left: 26px;
   margin-top: 37px;
-  border-radius: 11px;
 }
 
 .login .container .frm .input1 #Name3 {
@@ -191,7 +226,6 @@ header .Titre button:hover {
   text-align: center;
   margin-left: 26px;
   margin-top: 37px;
-  border-radius: 11px;
 }
 
 .login .container .frm .input1 #date {
@@ -201,7 +235,6 @@ header .Titre button:hover {
   text-align: center;
   margin-left: 26px;
   margin-top: 37px;
-  border-radius: 11px;
 }
 
 .login .container .frm .input1 #cin {
@@ -211,7 +244,6 @@ header .Titre button:hover {
   text-align: center;
   margin-left: 26px;
   margin-top: 37px;
-  border-radius: 11px;
 }
 
 .login .container .frm .input1 #email-id {
@@ -221,7 +253,6 @@ header .Titre button:hover {
   text-align: center;
   margin-left: 26px;
   margin-top: 37px;
-  border-radius: 11px;
 }
 
 .login .container .frm .input1 #password-id {
@@ -231,7 +262,15 @@ header .Titre button:hover {
   text-align: center;
   margin-left: 26px;
   margin-top: 37px;
-  border-radius: 11px;
+}
+
+.login .container .frm .input1 #tele {
+  width: 40%;
+  font-style: italic;
+  height: 40px;
+  text-align: center;
+  margin-left: 26px;
+  margin-top: 37px;
 }
 
 .login .container .frm .input1 #confirmation {
@@ -239,10 +278,8 @@ header .Titre button:hover {
   font-style: italic;
   height: 40px;
   text-align: center;
-  margin-left: 288px;
+  margin-left: 26px;
   margin-top: 37px;
-  border-radius: 11px;
-  font-size: 15px;
 }
 
 .login .container .frm .input1 .fa-user {
@@ -254,6 +291,14 @@ header .Titre button:hover {
 }
 
 .login .container .frm .input1 .fa-envelope {
+  position: absolute;
+  margin-top: 48px;
+  margin-left: 40px;
+  color: #828999;
+  display: block;
+}
+
+.login .container .frm .input1 .fa-phone {
   position: absolute;
   margin-top: 48px;
   margin-left: 40px;
@@ -296,7 +341,7 @@ header .Titre button:hover {
 .login .container .frm .input1 .fa-key {
   position: absolute;
   position: absolute;
-  margin-top: 46px;
+  margin-top: -28px;
   margin-left: 290px;
   color: #828999;
   display: block;

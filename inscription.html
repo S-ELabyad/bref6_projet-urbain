@@ -24,7 +24,7 @@
              font-size: 13px;
   
 }
-        }
+        
         </style>
 </head>
 <body>
@@ -72,7 +72,13 @@
         <div class="border2"></div>
        <div class="container ">
         <div class="frm">
-                <div class="image"> <img src="image/2.jpg" style="height: 454px;"></div>
+                <div class="image" >
+                    <h3 class="parag">Nous saluons le retour</h3> 
+                    <p class="parag1">pour rester connecté avec <br> nous, veuillez vous connecter <br>avec vos informations personnelles</p>
+
+                    <button type="button" class="btn"   onclick="inscriptionToConnection()" > <a style="color: white;text-decoration: none; background-color: transparent;" href="contact.html"> Connection</a></button>
+                    <img src="image/2.jpg" style="height: 454px;">
+                </div>
 
                 <div class="input1">
                <h2 class="title1">Bienvenue</h2>
@@ -106,8 +112,12 @@
             <input type="password" placeholder="Mot de passe " id="password-id" name="password-id" />
          
 
+            <i class="fa fa-phone"></i>
+            <input type="tel" placeholder="Numero de tel " id="tele" name="tele" />
+
+
             <i class="fa fa-key"></i>
-            <input type="password" placeholder="Confirmation du mot de passe " id="confirmation" name="confirmation" />
+            <input type="password" placeholder="Confirmation Mot de passe " id="confirmation" name="confirmation" />
          
 
       

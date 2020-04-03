@@ -139,6 +139,40 @@ header{
                 border-top-left-radius: 10px;
            
                 }
+                & .parag1{
+                    font-weight: bold;
+                    padding-top: 12%;
+                    margin-top: 0%;
+                    margin-left: 190px;
+                    line-height: 1.8;
+                    font-size: 15px;
+                    position: absolute;
+                    text-align: center;
+                    color: white;
+                }  
+                & .parag{
+                    text-align: center;
+                    color: black;
+                    margin-top: 4%;
+                    position: absolute;
+                    margin-left: 209px
+                }  
+                & .btn{
+                    position: absolute;
+                    border: none;
+                    height: 8%;
+                    width: 12%;
+                    border-radius: 42px;
+                    font-style: italic;
+                    background: #2893DA;
+                    font-weight: bold;
+                    color: #ffffff;
+                    margin-top: 23%;
+                    margin-left: 209px;
+                
+                    cursor: pointer
+                }
+       
 
             & .input1{
                
