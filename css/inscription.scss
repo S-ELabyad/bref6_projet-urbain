@@ -555,7 +555,7 @@ footer{
   .login h2 {
     font-size: 26px;
   }
-  .login .container .frm .image img {
+  .login .container .frm .image  {
       display: none;
   }
   .login .container .frm .input1 .title1{
@@ -590,6 +590,10 @@ footer{
     margin-left: 100px;
     width: 252px;
   }
+  .login .container .frm .input1 #tele{
+    margin-left: 100px;
+    width: 252px;
+  }
   .login .container .frm .input1 .title2{
     font-size: 12px;
   }
@@ -604,6 +608,9 @@ footer{
     margin-top: 48px;
 }
 
+.login .container .frm .input1 .fa-phone {
+    margin-left: 113px;
+}
 .login .container .frm .input1 .fa-user {
     margin-left: 113px;
 }
@@ -623,6 +630,7 @@ footer{
 }
 .login .container .frm .input1 .fa-key{
     margin-left: 113px;
+    margin-top: 49px;
 }
 .login .container .frm .input1 #Button{
     margin-left: 157px;
@@ -631,9 +639,10 @@ footer{
 .login .container .frm {
     border: 1px solid black;
     border-radius: 10px;
-    height: 693px;
+    height: 760px;
+ 
     display: flex;
-    width: 100%;
+    width: 90%;
     margin-top: 66px;
 }
 

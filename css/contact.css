@@ -484,7 +484,10 @@ footer .ftr ul i {
   .login h2 {
     font-size: 26px;
   }
-  .login .container .frm .image img {
+  .login .container .frm {
+    width: 92%;
+  }
+  .login .container .frm .image {
     display: none;
   }
   .login .container .frm .input1 .title1 {
