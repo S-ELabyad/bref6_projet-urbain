@@ -385,8 +385,8 @@ header .Titre button:hover {
   display: -ms-flexbox;
   display: flex;
   color: black;
-  margin-top: 54px;
-  margin-left: 167px;
+  margin-top: -13px;
+  margin-left: 374px;
 }
 
 .Contact {
@@ -555,38 +555,38 @@ footer .ftr ul i {
   }
   .login .container .frm .input1 .title1 {
     font-size: 19px;
-    margin-left: 182px;
+    margin-left: 131px;
   }
   .login .container .frm .input1 #Name2 {
-    margin-left: 100px;
+    margin-left: 52px;
     width: 252px;
   }
   .login .container .frm .input1 #Name3 {
-    margin-left: 100px;
+    margin-left: 52px;
     width: 252px;
   }
   .login .container .frm .input1 #date {
-    margin-left: 100px;
+    margin-left: 52px;
     width: 252px;
   }
   .login .container .frm .input1 #cin {
-    margin-left: 100px;
+    margin-left: 52px;
     width: 252px;
   }
   .login .container .frm .input1 #email-id {
-    margin-left: 100px;
+    margin-left: 52px;
     width: 252px;
   }
   .login .container .frm .input1 #password-id {
-    margin-left: 100px;
+    margin-left: 52px;
     width: 252px;
   }
   .login .container .frm .input1 #confirmation {
-    margin-left: 100px;
+    margin-left: 52px;
     width: 252px;
   }
   .login .container .frm .input1 #tele {
-    margin-left: 100px;
+    margin-left: 52px;
     width: 252px;
   }
   .login .container .frm .input1 .title2 {
@@ -596,44 +596,45 @@ footer .ftr ul i {
     margin-left: 160px;
   }
   .login .container .frm .input1 .title3 {
-    margin-left: 29%;
+    margin-left: 40%;
+    margin-top: 6px;
   }
   .login .container .frm .input1 .fa-user-plus {
-    margin-left: 112px;
+    margin-left: 57px;
     margin-top: 48px;
   }
   .login .container .frm .input1 .fa-phone {
-    margin-left: 113px;
+    margin-left: 57px;
   }
   .login .container .frm .input1 .fa-user {
-    margin-left: 113px;
+    margin-left: 57px;
   }
   .login .container .frm .input1 .fa-calendar {
-    margin-left: 113px;
+    margin-left: 57px;
   }
   .login .container .frm .input1 .fa-id-card {
-    margin-left: 112px;
+    margin-left: 57px;
     margin-top: 48px;
   }
   .login .container .frm .input1 .fa-envelope {
-    margin-left: 113px;
+    margin-left: 57px;
   }
   .login .container .frm .input1 .fa-lock {
-    margin-left: 112px;
+    margin-left: 57px;
     margin-top: 48px;
   }
   .login .container .frm .input1 .fa-key {
-    margin-left: 113px;
+    margin-left: 57px;
     margin-top: 49px;
   }
   .login .container .frm .input1 #Button {
-    margin-left: 157px;
+    margin-left: 118px;
     height: 28px;
   }
   .login .container .frm {
     border: 1px solid black;
     border-radius: 10px;
-    height: 760px;
+    height: 954px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;

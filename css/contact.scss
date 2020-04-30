@@ -481,6 +481,7 @@ footer{
   }
   .login .container .frm{
       width: 92%;
+      
   }
   .login .container .frm .image {
       display: none;
@@ -490,24 +491,33 @@ footer{
     margin-left: 182px;
   }
   .login .container .frm .input1 #name{
-    margin-left: 78px;
+    margin-left: 55px;
   }
   .login .container .frm .input1 #email{
-    margin-left: 78px;
+    margin-left: 55px;
   }
   .login .container .frm .input1 #password{
-    margin-left: 78px;
+    margin-left: 55px;
   }
   .login .container .frm .input1 .title2{
     font-size: 12px;
+    margin-left: 221px;
   }
   .login .container .frm .input1 #button{
-      margin-left: 160px;
+      margin-left: 122px;
   }
   .login .container .frm .input1 .title3{
-      margin-left: 29%;
+    margin-left: 22%;
   }
-
-
-
+  .login .container .frm .input1 .fa-user {
+    margin-left: 57px;
+   
+}
+.login .container .frm .input1 .fa-envelope {
+    margin-left: 57px;
+   
+}
+.login .container .frm .input1 .fa-lock {
+    margin-left: 57px;
+}
 }
